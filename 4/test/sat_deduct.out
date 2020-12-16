@@ -1,0 +1,19 @@
+(x0 | -x4 | x3) & (x0 | -x3 | x2 | x4) & (x2 | x4 | x1) & (x3 | -x1) & (-x3) & (x0)
+The value of the Boolean expression is: True
+The value of the Boolean expression is: False
+The value of the Boolean expression is: Unknown
+Start deductive solver for:
+(x0 | -x4 | x3) & (x0 | -x3 | x2 | x4) & (x2 | x4 | x1) & (x3 | -x1) & (-x3) & (x0)
+Unit propagate x3 = 0:
+(x0 | -x4) & (1) & (x2 | x4 | x1) & (-x1) & (1) & (x0)
+Unit propagate x1 = 0:
+(x0 | -x4) & (1) & (x2 | x4) & (1) & (1) & (x0)
+Unit propagate x0 = 1:
+(1) & (1) & (x2 | x4) & (1) & (1) & (1)
+Make decision x2 = 0:
+(1) & (1) & (x4) & (1) & (1) & (1)
+Unit propagate x4 = 1:
+(1) & (1) & (1) & (1) & (1) & (1)
+The expression is SAT!
+(x0 | -x4 | x3) & (x0 | -x3 | x2 | x4) & (x2 | x4 | x1) & (x3 | -x1) & (-x3) & (x0)
+Bye!

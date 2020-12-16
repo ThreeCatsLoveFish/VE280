@@ -1,0 +1,127 @@
+13 11
+x10 | -x5 | x7 | -x4 | -x7 | -x6 | -x3 | -x2 | -x11
+x10
+x9 | x10 | -x5 | x5 | x0 | -x10 | x9 | x5 | x8 | -x9
+x4 | -x8 | x7 | x4 | -x5 | x7
+-x2 | -x3 | -x11 | x8 | x8
+-x6 | x0 | x2 | -x8 | -x10 | -x3 | -x6 | -x11 | x2 | x12
+x4 | -x3 | -x2 | -x0 | x8 | -x6 | x5 | x11 | x5 | x1 | -x1 | x2 | x1
+-x6 | -x12 | -x2 | x6 | x7 | -x9 | -x5
+x0 | x11 | -x0 | -x0 | x6 | -x3 | -x7 | x4 | x4 | x10
+x11 | x5 | -x7 | x6 | x9 | x3 | x9 | x7 | x6 | x5
+x2 | -x5 | x10 | -x4 | -x11 | x4 | x5
+SAT
+EVAL
+1  0  0  1  1  1  0  0  0  0  1  1  0 
+EVAL
+1  1  0  1  1  1  1  1  1  1  1  0  0 
+SAT
+SAT
+EVAL
+1  0  0  1  1  0  1  0  0  0  0  0  1 
+EVAL
+1  1  1  1  1  0  1  1  1  0  0  1  0 
+PRINT
+PRINT
+PRINT
+PRINT
+SAT
+EVAL
+1  0  1  0  1  0  0  1  0  0  1  1  1 
+PRINT
+EVAL
+1  1  1  0  1  0  0  0  1  0  1  1  1 
+PRINT
+PRINT
+EVAL
+1  1  1  0  0  1  0  0  1  1  1  0  0 
+EVAL
+0  0  0  1  1  1  1  1  0  0  0  1  0 
+EVAL
+1  1  1  0  1  1  1  1  0  1  0  0  1 
+SAT
+EVAL
+0  0  0  0  0  1  0  0  0  0  0  0  1 
+PRINT
+EVAL
+0  1  1  0  0  0  0  1  0  1  0  1  1 
+PRINT
+SAT
+EVAL
+0  0  1  0  0  0  0  0  0  0  1  0  0 
+SAT
+SAT
+PRINT
+SAT
+SAT
+SAT
+PRINT
+SAT
+EVAL
+1  1  1  0  1  1  0  1  1  0  0  0  1 
+SAT
+PRINT
+SAT
+PRINT
+EVAL
+1  0  1  1  1  0  1  1  1  0  0  0  0 
+EVAL
+1  0  1  0  1  0  1  0  1  1  1  1  1 
+EVAL
+1  1  1  0  0  1  1  0  1  1  1  0  0 
+SAT
+SAT
+PRINT
+PRINT
+SAT
+EVAL
+1  0  0  0  0  1  0  1  0  1  1  0  1 
+EVAL
+0  0  0  0  0  1  0  0  1  1  1  1  1 
+EVAL
+1  1  0  1  1  1  0  0  0  1  1  1  0 
+SAT
+EVAL
+0  0  0  1  0  0  1  0  1  0  0  1  0 
+SAT
+SAT
+SAT
+PRINT
+EVAL
+1  1  1  0  1  0  1  0  0  1  1  1  1 
+PRINT
+SAT
+SAT
+EVAL
+1  1  1  1  0  1  0  1  1  1  1  1  1 
+SAT
+PRINT
+PRINT
+EVAL
+0  1  1  1  0  1  0  1  1  0  0  0  1 
+PRINT
+EVAL
+0  1  0  1  1  0  1  1  0  1  0  1  0 
+SAT
+SAT
+PRINT
+SAT
+SAT
+SAT
+PRINT
+SAT
+EVAL
+1  0  1  1  1  0  1  1  0  0  0  0  1 
+PRINT
+EVAL
+0  0  1  1  0  0  1  0  0  0  1  0  1 
+EVAL
+1  1  0  1  0  0  1  1  0  1  1  0  1 
+EVAL
+1  1  0  1  1  1  1  0  0  0  0  1  0 
+SAT
+PRINT
+EVAL
+0  0  0  0  0  0  1  0  1  0  1  0  1 
+PRINT
+EXIT

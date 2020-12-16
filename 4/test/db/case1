@@ -1,0 +1,188 @@
+7 79
+x6 | x4 | x6 | -x1
+-x2 | -x2 | -x2 | x6 | -x4 | x4 | x4 | -x2 | x0
+-x2 | x5 | x2 | -x6 | -x6 | -x2 | x1
+x6 | -x1 | -x4 | -x1 | x5 | -x6 | x2 | x1
+x2 | x0 | -x5 | -x4 | x0 | x6 | x1 | x5 | -x3 | -x2 | x5
+-x5 | x2 | x0 | x5 | x1 | x5 | -x2
+x6 | x3 | x1
+x4 | x0 | -x3 | x0 | x5 | -x3 | -x0 | -x5
+-x2 | x0 | x6 | x4 | -x0 | -x0 | x3 | -x0 | x6 | -x5 | x0 | -x2
+x2
+x2 | -x1 | x1 | x1 | x5 | x1 | x0
+-x3 | x1 | x2 | -x4 | x0 | x0 | x0
+-x4 | x4 | -x5 | -x1 | -x0 | x1
+x1 | x6 | x4 | x1 | x5 | x2
+-x0 | -x6 | x3 | x2 | -x1 | -x4 | x3 | x6
+x6 | -x4 | x1 | x4 | -x2 | -x5
+-x1 | x5 | x5 | -x5 | -x5 | -x4 | x6
+x0 | x3 | -x2 | x0 | -x2 | x0 | -x6 | x0
+x4 | x6 | -x5 | x3 | x2 | -x0 | -x3 | -x3 | x4
+-x6 | x3 | -x1 | -x2 | x5 | x6 | -x4 | x4 | x0 | -x2
+-x3 | -x2 | x0 | x5 | x0
+-x4 | x2 | x3 | x5 | -x5 | x2 | -x2 | x3 | x5 | x4 | -x0 | x5 | -x6 | x5 | x2 | x0 | -x0 | x6 | x5 | -x0 | -x1 | x2
+x6 | x6 | -x0 | -x5 | -x3 | -x0 | -x0 | -x0 | x1 | -x5
+-x3 | x5 | x5 | x0 | -x5 | x5 | x0
+-x6 | -x0 | x5 | -x4 | x0 | x4 | -x6 | x1
+x6 | -x0 | x5 | x5 | x1 | -x1 | x4 | -x5 | x3
+-x3 | x5 | x5 | x6 | -x4 | -x5 | -x3
+x1 | -x0 | -x6 | -x0 | x2 | -x3
+-x4 | -x6 | -x2 | x5
+x6 | -x2 | -x6 | x1 | x4
+x5 | -x2 | x3 | -x2 | -x2 | -x0 | -x0 | x6 | x2 | x6 | x2 | x2
+x1 | -x3 | -x3 | -x3 | -x3 | x4 | x2 | x3 | x5 | -x5 | x3
+-x5 | x5 | -x6 | x3 | -x1 | x5 | x6 | x0 | x0 | x4
+-x6 | x4 | x5 | -x1 | -x2 | -x1 | -x5 | -x0 | x4
+x3 | -x6 | -x3 | x4 | x4 | x1 | x4 | x0 | -x6 | -x6 | -x6 | -x3 | x1 | x0 | x3 | x5 | x2 | x2 | -x1 | -x1
+x0 | x2 | -x6 | x4 | -x3 | -x6 | x0 | x5
+x3 | -x4 | -x3 | x0 | -x1 | -x6 | -x4 | -x2 | x5 | x6 | x3 | -x6 | x0 | -x1 | -x1
+-x6 | -x6 | -x3 | -x2 | -x1
+-x3 | -x1 | x3 | x6 | -x0 | -x5 | -x2 | -x1 | -x3 | x4 | -x2
+x6 | -x3 | -x5 | x0 | -x5 | -x0 | x0 | x6 | x6
+-x6 | x6 | x6 | x0 | -x4 | -x2 | x0 | x2 | -x1 | x6 | -x2
+-x2 | -x1 | -x4 | x4 | x5 | x6 | -x3 | x1 | -x2 | -x0
+-x6 | -x2 | -x3 | x2 | x6 | -x1 | -x1 | x0 | x3
+-x5 | x0 | x3 | x2 | x6 | x0 | -x4 | x4 | x1 | x4 | x4 | x4 | x5 | -x5 | x5 | x5 | -x1 | -x0
+x5 | -x4 | -x3 | x0 | -x6 | x2 | x6 | -x2
+x5 | -x3 | x6 | x2 | -x4 | -x4 | x3 | x4 | x6 | x6
+-x1 | x3 | -x0 | -x3
+-x6 | -x1 | -x0 | x5
+x3 | -x0 | -x2 | x1 | x5
+-x0 | -x0 | -x6 | x6 | -x1 | -x4 | -x0 | -x0 | x2 | -x1 | x6 | -x1 | x2 | x0 | x6 | -x5 | x4 | x0 | -x0 | x4 | x1 | -x1 | x2 | -x0
+-x0 | x6 | -x6 | x3 | -x1 | x4 | -x6 | x6 | -x6 | x6 | -x5 | x6 | x4
+x4 | -x5 | x6 | -x3 | x3 | x4 | -x2 | -x4 | x0 | x3 | -x6 | -x5 | -x1 | -x6 | x5
+-x1 | -x1 | -x0 | x5 | -x2 | x0 | -x0 | x4 | -x2 | x3 | -x2
+x2 | -x4 | -x2 | x1
+-x6 | -x2 | x0 | -x1 | -x1 | x0 | x6
+-x1 | x1 | x5 | x5 | x0 | x0 | -x3 | x5 | x4 | x3
+x5 | -x2 | -x4 | -x2 | -x2 | x6 | -x6 | x6 | x4 | -x6 | x5 | -x2
+x6 | x4 | -x3 | -x4 | -x6 | x5
+-x2 | x6 | x4 | -x2 | x4
+-x1 | -x5 | -x2 | x4 | -x0 | -x2 | -x5 | -x1 | -x0
+x6 | -x2 | -x0 | x4 | x4 | -x6 | x0 | x1 | x2 | x2 | x5 | -x0 | -x4
+x6 | -x3 | -x3 | x1 | -x5 | -x2 | x0 | x1 | -x5 | -x0 | x2 | -x4 | -x4 | -x5 | -x6 | x0
+-x1 | -x3 | -x2 | -x5 | -x2 | -x3 | x6 | -x1 | x0 | -x4 | -x5 | -x0 | x6 | x2 | x1 | -x5
+-x0 | -x1
+x5 | x1 | -x3 | x4 | x0 | x0 | -x6 | x2 | -x1 | -x2 | x2 | -x5
+x6 | -x2 | x4 | x1 | -x2 | -x4 | x5 | -x2 | -x0
+-x4 | -x3 | -x3 | x1 | x2 | -x4 | -x0
+x6 | x6 | -x3 | -x1 | -x0 | -x3 | -x3 | -x5
+-x3 | -x6 | x0 | -x3 | x2 | x4 | x2 | x3 | -x6 | x1 | x6 | -x6 | x1 | x4
+-x3 | x5 | x4 | -x0 | x2 | x4 | -x0 | -x2 | -x3 | -x5 | -x1 | x6 | x1
+x4 | x2 | -x0 | -x1 | -x2 | x5 | x3 | x2 | -x4 | x6 | -x4 | x1 | x1
+x0 | x1 | -x1 | -x3 | -x3 | x4
+x3 | x0 | x1 | -x0 | x2 | -x2 | x2 | x5 | -x4 | -x6 | -x5 | -x1
+-x3 | x0 | x5 | x0 | x5 | -x0 | x2 | -x3 | -x3 | x3 | x5 | -x5
+-x6 | -x1 | -x4 | -x2 | -x3
+x1
+-x2 | x3 | x2 | -x4 | -x6 | x3 | -x6 | x6 | -x2
+-x6 | -x1 | -x6 | x1 | x4 | x4 | x4 | -x1 | x2 | x2 | -x0 | x4
+-x4 | -x0 | -x2 | x3 | -x3 | x5
+EVAL
+0  1  0  0  1  1  1 
+PRINT
+SAT
+EVAL
+1  1  1  0  0  0  0 
+EVAL
+1  1  0  1  1  1  0 
+SAT
+PRINT
+PRINT
+EVAL
+1  0  1  1  1  1  1 
+PRINT
+SAT
+EVAL
+0  0  0  0  0  0  0 
+SAT
+PRINT
+SAT
+SAT
+PRINT
+SAT
+PRINT
+SAT
+PRINT
+SAT
+SAT
+SAT
+SAT
+PRINT
+SAT
+EVAL
+1  0  0  0  0  0  0 
+EVAL
+1  0  0  0  0  1  1 
+EVAL
+0  0  0  1  1  1  1 
+PRINT
+SAT
+SAT
+SAT
+SAT
+SAT
+EVAL
+1  1  1  0  1  0  0 
+SAT
+EVAL
+1  1  1  0  1  1  1 
+SAT
+PRINT
+PRINT
+PRINT
+SAT
+SAT
+PRINT
+EVAL
+0  1  0  0  1  1  0 
+SAT
+EVAL
+0  1  0  1  1  0  1 
+SAT
+PRINT
+SAT
+PRINT
+SAT
+EVAL
+0  0  0  1  1  1  1 
+EVAL
+1  0  1  0  0  1  1 
+EVAL
+0  1  0  1  0  0  1 
+SAT
+SAT
+PRINT
+EVAL
+1  0  0  0  1  1  0 
+SAT
+PRINT
+EVAL
+1  1  0  0  1  1  0 
+PRINT
+SAT
+SAT
+SAT
+EVAL
+1  0  1  1  1  1  0 
+PRINT
+EVAL
+0  1  1  0  1  1  0 
+SAT
+SAT
+SAT
+SAT
+EVAL
+0  1  0  1  1  0  1 
+EVAL
+0  0  0  1  1  0  1 
+SAT
+SAT
+SAT
+PRINT
+PRINT
+EVAL
+0  0  1  1  0  1  0 
+EVAL
+0  1  1  0  0  0  0 
+EXIT

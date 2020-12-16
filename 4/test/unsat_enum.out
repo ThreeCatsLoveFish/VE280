@@ -1,0 +1,3 @@
+(x0 | x1) & (x0 | -x1) & (-x0 | x1) & (-x0 | -x1)
+The expression is unSAT!
+Bye!
