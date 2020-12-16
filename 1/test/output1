@@ -1,0 +1,15 @@
+Please enter the monthly payment: Please enter the interest rate: Please enter the duration of the loan, in years: 
+Month	Principal	 Interest	  Balance
+-----	---------	---------	---------
+12	    99.59	     0.41	    99.59
+11	    99.17	     0.83	   198.76
+10	    98.76	     1.24	   297.52
+9	    98.35	     1.65	   395.87
+8	    97.94	     2.06	   493.81
+7	    97.54	     2.46	   591.35
+6	    97.13	     2.87	   688.48
+5	    96.73	     3.27	   785.21
+4	    96.33	     3.67	   881.53
+3	    95.93	     4.07	   977.46
+2	    95.53	     4.47	  1072.99
+1	    95.13	     4.87	  1168.12
