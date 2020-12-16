@@ -1,0 +1,2 @@
+%This is a dirty latex code with \qadd{something to add \qdel{or delete} and some comments}.
+This is another line of dirty latex code with \add{}  something to add but with \{escaped braces\} and some percentages \% with some  commands and more comments %such \qadd{as this}.

@@ -1,0 +1,8 @@
+3 \qadd \cadd \textbf
+2 \qdel \rm
+This is \cadd{another} line of dirty latex code with \add{} \qadd{} \qadd{something to% add
+% Just for test
+\qdel{or delete}but with \{escaped braces\}} and some percentages \% with some \qdel{normal % Maybe not normal
+% impossible}
+case}commands \textbf{and} more comments %such \qadd{as this}.
+\qadd{\textit{This is an \color{red\rm{a}\a{fdsa}{asdf}}{apple}.}}

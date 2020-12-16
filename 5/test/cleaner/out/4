@@ -1,0 +1,4 @@
+This is another line of dirty latex code with \add{}  something to% add
+% Just for test
+but with \{escaped braces\} and some percentages \% with some commands and more comments %such \qadd{as this}.
+\textit{This is an \color{red\a{fdsa}{asdf}}{apple}.}
